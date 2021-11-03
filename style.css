@@ -4,5 +4,8 @@
 body {
     text-align: center;
     background-color: rebeccapurple;
-
+    background-image: url("beach.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
